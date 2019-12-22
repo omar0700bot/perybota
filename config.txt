@@ -1,0 +1,5 @@
+﻿token=NjU4MjgyMTU4ODQ2Mzc3OTk0.Xf9f2Q.V-lDeBhiBK8rxKwpckvTyhhU2UA
+owner=560434723323904002
+prefix=pe
+stayinchannel=true
+songinstatus=true
